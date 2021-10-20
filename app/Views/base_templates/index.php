@@ -88,7 +88,7 @@
                     <div class="collapse show" id="home-collapse">
                     <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
                         <li><a href="/rupiah" class="link-dark rounded">Rupiah js</a></li>
-                        <li><a href="#" class="link-dark rounded">Updates</a></li>
+                        <li><a href="https://www.sukabumikode.com/v/32/menghapus-karakter-yang-tidak-diinginkan-dari-string-php" class="link-dark rounded">karakter string php hilang</a></li>
                         <li><a href="#" class="link-dark rounded">Reports</a></li>
                     </ul>
                     </div>
